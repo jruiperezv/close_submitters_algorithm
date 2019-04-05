@@ -9,7 +9,7 @@ Online learning has become very popular over the last decade. However, there are
 
 ## How to use
 
-The algorithm is easy enough to be used by others and its provided as a Jupyter notebook ([close_submitters.ipynb](close_submitters.ipynb)). Follow the next steps:
+The algorithm is easy enough to be used by others and its provided as a Jupyter notebook ([close_submitters.ipynb](close_submitters.ipynb)), and has a working example that can be executed. Follow the next steps:
 
 1. You need to compute a submission matrix where every row corresponds to an student, every column to an assignment in a course, and the value of the cell is the timestamp of the last submission of the student to that assignment. More details in the [paper](WWW_DataDrivenMethod.pdf), but I also have included a [example of submission matrix](example_submission_matrix.csv).
 2. There are few parameters to configure the algorithm:
